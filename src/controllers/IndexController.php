@@ -191,12 +191,12 @@ class IndexController extends Controller {
             <section>
               <header class="rule-section-header">
                 <h3>{tr('Rule')} 1</h3>
-                <h6>{tr('Cooperation')}</h6>
+                <h6>{tr(' ')}</h6>
               </header>
               <div class="rule-main">
                 <p>
                   {tr(
-                    'No cooperation between teams with independent accounts. Sharing of keys or providing revealing hints to other teams is cheating, don’t do it.',
+                    'All answers are in small case , alpha-numeric and there is no space in between.',
                   )}
                 </p>
                 <p></p>
@@ -205,12 +205,12 @@ class IndexController extends Controller {
             <section>
               <header class="rule-section-header">
                 <h3>{tr('Rule')} 2</h3>
-                <h6>{tr('Attacking Scoreboard')}</h6>
+                <h6>{tr(' ')}</h6>
               </header>
               <div class="rule-main">
                 <p>
                   {tr(
-                    'No attacking the competition infrastructure. If bugs or vulns are found, please alert the competition organizers immediately.',
+                    ' Stay tuned to our official facebook page- facebook.com/cybercrew2k19 for hints and feel free to DM us to confirm your leads ',
                   )}
                 </p>
                 <p></p>
@@ -219,12 +219,13 @@ class IndexController extends Controller {
             <section>
               <header class="rule-section-header">
                 <h3>{tr('Rule')} 3</h3>
-                <h6>{tr('Sabotage')}</h6>
+                <h6>{tr(' ')}</h6>
               </header>
               <div class="rule-main">
                 <p>
                   {tr(
-                    'Absolutely no sabotaging of other competing teams, or in any way hindering their independent progress.',
+                    'No cooperation between teams with independent accounts. Sharing of keys or providing revealing hints to other teams is cheating, don’t do it.
+',
                   )}
                 </p>
                 <p></p>
@@ -233,12 +234,12 @@ class IndexController extends Controller {
             <section>
               <header class="rule-section-header">
                 <h3>{tr('Rule')} 4</h3>
-                <h6>{tr('Bruteforcing')}</h6>
+                <h6>{tr(' ')}</h6>
               </header>
               <div class="rule-main">
                 <p>
                   {tr(
-                    'No brute forcing of challenge flag/ keys against the scoring site.',
+                    ' Try to adhere to the prescribed order of the levels starting from 'India'. ',
                   )}
                 </p>
                 <p></p>
@@ -247,12 +248,12 @@ class IndexController extends Controller {
             <section>
               <header class="rule-section-header">
                 <h3>{tr('Rule')} 5</h3>
-                <h6>{tr('Denial Of Service')}</h6>
+                <h6>{tr(' ')}</h6>
               </header>
               <div class="rule-main">
                 <p>
                   {tr(
-                    'DoSing the CTF platform or any of the challenges is forbidden.',
+                    ' And remember to visit our site -  cybercrew.sajs.co.in  (just in case, you know)',
                   )}
                 </p>
                 <p></p>
